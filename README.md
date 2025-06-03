@@ -119,5 +119,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Inspired by the original Bitcoin whitepaper
-- Built with Rust's excellent crypto and serialization libraries
+-https://dev.to/ecj222/how-to-build-a-blockchain-from-scratch-in-rust-46
