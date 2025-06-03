@@ -1,6 +1,7 @@
 # Rust Blockchain Implementation
 
 A simple but functional blockchain implementation in Rust that demonstrates the core concepts of blockchain technology including block creation, mining, and chain validation.
+LINK : https://dev.to/ecj222/how-to-build-a-blockchain-from-scratch-in-rust-46
 
 ## Features
 
